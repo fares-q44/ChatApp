@@ -27,7 +27,7 @@ ChatApp is a beautiful Chat app for android,Two users can start a chat together,
 - Optimised storage using minimal packages
 
 ## Screenshots
-| <img src="https://github.com/fares-q44/ChatApp/blob/main/screenshots/1.jpeg" width="250"> |<img src="https://github.com/fares-q44/ChatApp/blob/main/screenshots/1.jpeg" width="250"> |  <img src="https://github.com/fares-q44/ChatApp/blob/main/screenshots/1.jpeg" width="250"> |
+| <img src="https://github.com/fares-q44/ChatApp/blob/main/screenshots/1.jpeg" width="250"> |<img src="https://github.com/fares-q44/ChatApp/blob/main/screenshots/2.jpeg" width="250"> |  <img src="https://github.com/fares-q44/ChatApp/blob/main/screenshots/3.jpeg" width="250"> |
 |:------------:|:------------:| :------------:|
 | Authinitication | all chats | Single chat
 
