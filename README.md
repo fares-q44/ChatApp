@@ -20,15 +20,10 @@ ChatApp is a beautiful Chat app for android,Two users can start a chat together,
 ## Features
 
 - Start a chat with someone
-
 - Send and recieve messages realtime
-
 - favorite messages
-
 - Application size under 10 MB
-- 
 - Supports Google Fonts universally
-- 
 - Optimised storage using minimal packages
 
 ## Screenshots
